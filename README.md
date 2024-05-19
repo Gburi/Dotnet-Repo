@@ -16,7 +16,7 @@ Features:
 
 How to Use:
 
-    Clone the Repository: git clone 
+    Clone the Repository: git clone https://github.com/Gburi/Dotnet-Repo.git
     Browse the Content: Explore notes, books, examples, and more.
     Learn and Apply: Use the resources to enhance your .NET skills.
     Contribute: Submit pull requests to share valuable resources or improvements.
